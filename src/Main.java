@@ -11,7 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n--- Sistema de Registro ---");
+            System.out.println("\n--- Sistema de Registro Estudiantil ---");
             System.out.println("1. Ingresar estudiante");
             System.out.println("2. Buscar estudiante por nombre");
             System.out.println("3. Salir");
